@@ -3,6 +3,7 @@
 	"description": "FCC Backend and API's test description",
 	"keywords": ["freecodecamp", "descriptive", "related", "words"],
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
